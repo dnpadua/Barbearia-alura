@@ -1,2 +1,2 @@
 # Barbearia-alura
- Projeto do curso básico de HTML na plataforma de cursos online Alura.
+ Projeto do curso básico de HTML & CSS na plataforma de cursos online Alura.
